@@ -1,5 +1,5 @@
 # Magic Globals
-Similar to Magic Constants in PHP.  Useful for debugging.
+Similar to Magic Constants in PHP.  Useful for debugging. (Исправил проблему с GLOBAL-global)
 
 [![npm version](https://badge.fury.io/js/magic-globals.svg)](http://badge.fury.io/js/magic-globals)
 [![gluten](https://img.shields.io/badge/gluten-free-green.svg?style=flat)](http://i.imgur.com/Kua978a.jpg)
